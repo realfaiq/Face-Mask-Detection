@@ -1,0 +1,8 @@
+ultralytics
+opencv-python
+matplotlib
+numpy
+fastapi
+pydantic
+python-multipart
+streamlit
